@@ -9,3 +9,4 @@
 *.txt
 *.pdf
 ignore_me/
+.ipynb_checkpoints/
