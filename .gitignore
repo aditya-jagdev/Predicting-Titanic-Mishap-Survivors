@@ -8,5 +8,5 @@
 *.psd
 *.txt
 *.pdf
-ignore_me/
-.ipynb_checkpoints/
+ignore_me/*
+.ipynb_checkpoints/*
